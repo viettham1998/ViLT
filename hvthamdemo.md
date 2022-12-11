@@ -25,7 +25,7 @@ We provide five pretrained weights
 
 ## Out-of-the-box VQA Demo
 <p align="center">
-  <img align="middle" src="./assets/vqa.png" alt="VQA"/>
+  <img align="middle" src="./assets/vqa_vi.png" alt="VQA"/>
 </p>
 
 ```bash
